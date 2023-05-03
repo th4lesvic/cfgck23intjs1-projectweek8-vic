@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/cfgck23intjs1-projectweek8-vic/static/css/main.1fbf0dab.css",
+    "main.js": "/cfgck23intjs1-projectweek8-vic/static/js/main.a9cc7556.js",
+    "static/media/banner-bg.png": "/cfgck23intjs1-projectweek8-vic/static/media/banner-bg.ac0c5907427f4f30a79e.png",
+    "static/media/mercury.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/mercury.14f4d4d6879a6bcb843a.jpg",
+    "static/media/project-img6.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img6.fb829489c0c7a01fd786.png",
+    "static/media/uranus.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/uranus.100dbc8f050156e7d1c6.jpg",
+    "static/media/venus.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/venus.816e2a52431b2e99573a.jpg",
+    "static/media/footer-bg.png": "/cfgck23intjs1-projectweek8-vic/static/media/footer-bg.b04c37bf5bde58db8c78.png",
+    "static/media/mars.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/mars.e106270e48e927d3d6bd.jpg",
+    "static/media/project-imag9.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-imag9.2ceb7e220e62c71e7056.png",
+    "static/media/jupiter.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/jupiter.f7485e33a92f95a97aac.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/cfgck23intjs1-projectweek8-vic/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/cfgck23intjs1-projectweek8-vic/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/earth.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/earth.ff3c8f8e6c9bbb86b863.jpg",
+    "static/media/CentraNo2-Book.ttf": "/cfgck23intjs1-projectweek8-vic/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img2.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img2.6f2bab9d6c2a75de758d.png",
+    "static/media/project-img8.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img8.f413037a5b3b19d65624.png",
+    "static/media/project-img1.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img1.fa576c6f4e6b96178f1b.png",
+    "static/media/neptune.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/neptune.1500ac8075712bf55c5e.jpg",
+    "static/media/project-img3.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img3.7a9d260ce59f9d4a3031.png",
+    "static/media/project-img4.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img4.d6dcfb055014f0797908.png",
+    "static/media/project-img5.png": "/cfgck23intjs1-projectweek8-vic/static/media/project-img5.8ba1c5fa2e766b717e18.png",
+    "static/media/saturn.jpg": "/cfgck23intjs1-projectweek8-vic/static/media/saturn.04dc2936127b77189758.jpg",
+    "static/media/revicons.eot": "/cfgck23intjs1-projectweek8-vic/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/cfgck23intjs1-projectweek8-vic/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/logo.svg": "/cfgck23intjs1-projectweek8-vic/static/media/logo.4c5f417ff5b9648358f8e11ad87ad6d8.svg",
+    "static/media/revicons.woff": "/cfgck23intjs1-projectweek8-vic/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/cfgck23intjs1-projectweek8-vic/static/media/nav-icon3.30c194f0d4860269dc6efeb80919abc1.svg",
+    "static/media/header-img.svg": "/cfgck23intjs1-projectweek8-vic/static/media/header-img.09c975efac0b97f1d285f10e1458a7ff.svg",
+    "static/media/nav-icon2.svg": "/cfgck23intjs1-projectweek8-vic/static/media/nav-icon2.bf62bb63d8c96df72deb13d7a311662d.svg",
+    "index.html": "/cfgck23intjs1-projectweek8-vic/index.html",
+    "static/media/nav-icon1.svg": "/cfgck23intjs1-projectweek8-vic/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.1fbf0dab.css.map": "/cfgck23intjs1-projectweek8-vic/static/css/main.1fbf0dab.css.map",
+    "main.a9cc7556.js.map": "/cfgck23intjs1-projectweek8-vic/static/js/main.a9cc7556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fbf0dab.css",
+    "static/js/main.a9cc7556.js"
+  ]
+}
